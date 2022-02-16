@@ -1,10 +1,10 @@
-# <p align="center">𝕻𝖔𝖈𝖔𝖓𝖌𝖀𝖘𝖊𝖗𝖇𝖔𝖙</p>
+# <p align="center">bosmuda</p>
 
-<img src="https://telegra.ph/file/0297888edbdc754503e0b.jpg">
+<img src="">
 </p>
 
 <p align="center">
-    <img alt="POCONG VERSION" src="https://img.shields.io/badge/POCONG%20VERSION-2.3.4-brightgreen"/>
+    <img alt="" src="https://img.shields.io/badge/bosmuda%20VERSION-2.3.4-brightgreen"/>
     <img alt="BUILD IN" src="https://img.shields.io/badge/BUILD%20-Last Day-brightgreen"/>
            <a href="https://travis-ci.com/poocong/PocongUserbot.svg?branch=main" /></a>
     <a href="https://github.com/poocong/PocongUserbot/network/members"> <img src="https://img.shields.io/github/forks/poocong/PocongUserbot?logo=github&style=for-the-badge" /></a>
@@ -14,7 +14,7 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.0-blue?style=for-the-badge&logo=appveyor"/>
    </p>
 
-PocongUserbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Bosmuda adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -46,8 +46,8 @@ src="https://img.shields.io/badge/Deploy%20via%20bot%20heroku-purple?style=flat&
 <details>
     <summary> <b>Update and support</b></summary><br/>
 
-* Grup Support [[PocongUserbot]](https://t.me/PocongUserbot)
-* Channel Support [[Poocongonlen]](https://t.me/PocongProject)
+* Grup Support 
+* Channel Support 
 
 
 </details>
@@ -55,16 +55,3 @@ src="https://img.shields.io/badge/Deploy%20via%20bot%20heroku-purple?style=flat&
 <details>
     <summary>&#127942 <b>Credits</b></summary><br/>
 
-#### Thanks To [Everyone](https://github.com/poocong/PocongUserbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
-*   [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
-*   [RaphielGang](https://github.com/RaphielGang) : Paperplane
-*   [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
-*   [BianSepang](https://github.com/BianSepang/WeebProject) : WeebProject
-*   [Sandy1709](https://github.com/sandy1709/catuserbot) : CatUserbot
-*   [X_ImFine](https://github.com/ximfine) :  XBot-REMIX
-*   [Pocong](https://github.com/poocong/Pocong-Userbot) : Pocong-Userbot
-*   [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
-*   [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
-
-## License
-Licensed under [Raphielscape Public License](https://github.com/poocong/PocongUserbot/blob/PocongUserbot/LICENSE) - Version 1.d, February 2020
